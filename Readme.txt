@@ -1,9 +1,7 @@
 Hi!
-I used Python Flask as the client side.
-The Calculator.py is the server side.
-The page itself is 'Client.html' ,
-   it requires to be in a 'templates' folder next to the main app: 'HomeAssignmentFlask.py'
-   so it is there if you would like to have a look.
+This is a basic calculator with 4 oprations: +,-,*,/
+You can also add brackets with 'A' or 'Z', 
+   just type something like '3*A1+2Z' and the backend will take care of the rest.
+This calculator support order of operations :)
 
-Let me know how I did :)
 Oren~
